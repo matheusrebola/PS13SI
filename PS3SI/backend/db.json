@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Matheus Cavalcanti Rebola",
+      "email": "m.cavalcantir@outlook.com",
+      "funcao": "aluno",
+      "materia": "sistemas de informação"
+    },
+    {
+      "id": 2,
+      "name": "Francisco Aurizelio de Souza",
+      "email": "franasouza@gmail.com",
+      "funcao": "professor",
+      "materia": "microservice and web engineering"
+    },
+    {
+      "id": 3,
+      "name": "Luiz Francisco Zabuscka de Souza",
+      "email": "luiz.zabuscka@hotmail.com",
+      "funcao": "professor",
+      "materia": "desenvolvimento mobile"
+    },
+    {
+      "id": 4,
+      "name": "Flávio Moreni",
+      "email": "flavio_moreni@gmail.com",
+      "funcao": "professor",
+      "materia": "desenvolvimento cross plataform"
+    }
+  ]
+}
